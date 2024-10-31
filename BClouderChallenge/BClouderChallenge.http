@@ -1,0 +1,6 @@
+@BClouderChallenge_HostAddress = http://localhost:5123
+
+GET {{BClouderChallenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

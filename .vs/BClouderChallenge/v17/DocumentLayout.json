@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2004955B-8287-43DD-ABC1-798080ED077E}|BClouderChallenge\\BClouderChallenge.API.csproj|c:\\users\\vinic\\source\\repos\\bclouderchallenge\\bclouderchallenge\\controllers\\bcloudertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2004955B-8287-43DD-ABC1-798080ED077E}|BClouderChallenge\\BClouderChallenge.API.csproj|solutionrelative:bclouderchallenge\\controllers\\bcloudertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42580F51-B800-451B-BC41-7FC00843285F}|Users.Domain\\Domain.csproj|c:\\users\\vinic\\source\\repos\\bclouderchallenge\\users.domain\\entities\\bcloudertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42580F51-B800-451B-BC41-7FC00843285F}|Users.Domain\\Domain.csproj|solutionrelative:users.domain\\entities\\bcloudertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004955B-8287-43DD-ABC1-798080ED077E}|BClouderChallenge\\BClouderChallenge.API.csproj|c:\\users\\vinic\\source\\repos\\bclouderchallenge\\bclouderchallenge\\controllers\\bclouderusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2004955B-8287-43DD-ABC1-798080ED077E}|BClouderChallenge\\BClouderChallenge.API.csproj|solutionrelative:bclouderchallenge\\controllers\\bclouderusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004955B-8287-43DD-ABC1-798080ED077E}|BClouderChallenge\\BClouderChallenge.API.csproj|c:\\users\\vinic\\source\\repos\\bclouderchallenge\\bclouderchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2004955B-8287-43DD-ABC1-798080ED077E}|BClouderChallenge\\BClouderChallenge.API.csproj|solutionrelative:bclouderchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42580F51-B800-451B-BC41-7FC00843285F}|Users.Domain\\Domain.csproj|c:\\users\\vinic\\source\\repos\\bclouderchallenge\\users.domain\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42580F51-B800-451B-BC41-7FC00843285F}|Users.Domain\\Domain.csproj|solutionrelative:users.domain\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42580F51-B800-451B-BC41-7FC00843285F}|Users.Domain\\Domain.csproj|c:\\users\\vinic\\source\\repos\\bclouderchallenge\\users.domain\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42580F51-B800-451B-BC41-7FC00843285F}|Users.Domain\\Domain.csproj|solutionrelative:users.domain\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42580F51-B800-451B-BC41-7FC00843285F}|Users.Domain\\Domain.csproj|c:\\users\\vinic\\source\\repos\\bclouderchallenge\\users.domain\\entities\\bclouderuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42580F51-B800-451B-BC41-7FC00843285F}|Users.Domain\\Domain.csproj|solutionrelative:users.domain\\entities\\bclouderuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08349D5B-9937-4898-B6E4-EC9DA011F302}|Infrastructure\\Infrastructure.csproj|c:\\users\\vinic\\source\\repos\\bclouderchallenge\\infrastructure\\bclouderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08349D5B-9937-4898-B6E4-EC9DA011F302}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\bclouderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031013846_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20241031013846_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031011619_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20241031011619_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031011321_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20241031011321_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031011210_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20241031011210_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031010314_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20241031010314_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004955B-8287-43DD-ABC1-798080ED077E}|BClouderChallenge\\BClouderChallenge.API.csproj|c:\\users\\vinic\\source\\repos\\bclouderchallenge\\bclouderchallenge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2004955B-8287-43DD-ABC1-798080ED077E}|BClouderChallenge\\BClouderChallenge.API.csproj|solutionrelative:bclouderchallenge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08349D5B-9937-4898-B6E4-EC9DA011F302}|Infrastructure\\Infrastructure.csproj|c:\\users\\vinic\\source\\repos\\bclouderchallenge\\infrastructure\\migrations\\20241031024930_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08349D5B-9937-4898-B6E4-EC9DA011F302}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241031024930_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BClouderTaskController.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\BClouderChallenge\\Controllers\\BClouderTaskController.cs",
+              "RelativeDocumentMoniker": "BClouderChallenge\\Controllers\\BClouderTaskController.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\BClouderChallenge\\Controllers\\BClouderTaskController.cs",
+              "RelativeToolTip": "BClouderChallenge\\Controllers\\BClouderTaskController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAIwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:57:36.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BClouderUserController.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\BClouderChallenge\\Controllers\\BClouderUserController.cs",
+              "RelativeDocumentMoniker": "BClouderChallenge\\Controllers\\BClouderUserController.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\BClouderChallenge\\Controllers\\BClouderUserController.cs",
+              "RelativeToolTip": "BClouderChallenge\\Controllers\\BClouderUserController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:57:21.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\BClouderChallenge\\Program.cs",
+              "RelativeDocumentMoniker": "BClouderChallenge\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\BClouderChallenge\\Program.cs",
+              "RelativeToolTip": "BClouderChallenge\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:56:25.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BClouderTask.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Users.Domain\\Entities\\BClouderTask.cs",
+              "RelativeDocumentMoniker": "Users.Domain\\Entities\\BClouderTask.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Users.Domain\\Entities\\BClouderTask.cs",
+              "RelativeToolTip": "Users.Domain\\Entities\\BClouderTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:46:05.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241031011619_new.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031011619_new.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241031011619_new.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031011619_new.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241031011619_new.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:16:19.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BClouderUser.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Users.Domain\\Entities\\BClouderUser.cs",
+              "RelativeDocumentMoniker": "Users.Domain\\Entities\\BClouderUser.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Users.Domain\\Entities\\BClouderUser.cs",
+              "RelativeToolTip": "Users.Domain\\Entities\\BClouderUser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:45:17.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BClouderDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\BClouderDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\BClouderDbContext.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\BClouderDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\BClouderDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:24:25.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Users.Domain\\ViewModels\\TaskViewModel.cs",
+              "RelativeDocumentMoniker": "Users.Domain\\ViewModels\\TaskViewModel.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Users.Domain\\ViewModels\\TaskViewModel.cs",
+              "RelativeToolTip": "Users.Domain\\ViewModels\\TaskViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:26:03.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Users.Domain\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Users.Domain\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Users.Domain\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "Users.Domain\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:25:49.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241031010314_new.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031010314_new.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241031010314_new.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031010314_new.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241031010314_new.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:03:15.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241031011210_new.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031011210_new.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241031011210_new.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031011210_new.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241031011210_new.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:12:10.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241031013846_new.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031013846_new.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241031013846_new.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031013846_new.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241031013846_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:38:47.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241031024930_new.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031024930_new.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241031024930_new.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031024930_new.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241031024930_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:49:30.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241031011321_new.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031011321_new.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241031011321_new.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\Infrastructure\\Migrations\\20241031011321_new.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241031011321_new.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:13:21.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\BClouderChallenge\\appsettings.json",
+              "RelativeDocumentMoniker": "BClouderChallenge\\appsettings.json",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\BClouderChallenge\\appsettings.json",
+              "RelativeToolTip": "BClouderChallenge\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T14:27:42.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
