@@ -130,6 +130,7 @@ C:\Users\vinic\source\repos\BClouderChallenge\BClouderChallenge\obj\Debug\net8.0
 C:\Users\vinic\source\repos\BClouderChallenge\BClouderChallenge\obj\Debug\net8.0\BClouderChallenge.API.csproj.CoreCompileInputs.cache
 C:\Users\vinic\source\repos\BClouderChallenge\BClouderChallenge\obj\Debug\net8.0\BClouderChallenge.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\vinic\source\repos\BClouderChallenge\BClouderChallenge\obj\Debug\net8.0\BClouderChallenge.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinic\source\repos\BClouderChallenge\BClouderChallenge\obj\Debug\net8.0\BClouderChallenge.API.sourcelink.json
 C:\Users\vinic\source\repos\BClouderChallenge\BClouderChallenge\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\vinic\source\repos\BClouderChallenge\BClouderChallenge\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\vinic\source\repos\BClouderChallenge\BClouderChallenge\obj\Debug\net8.0\staticwebassets\msbuild.BClouderChallenge.API.Microsoft.AspNetCore.StaticWebAssets.props

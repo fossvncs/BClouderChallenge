@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BClouderChallenge.Server.props" />
+</Project>

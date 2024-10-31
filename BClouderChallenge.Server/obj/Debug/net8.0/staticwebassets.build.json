@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "A3grml2jO8FeXcRKhky8slXfG1NbpNasUfhu6/0QO2U=",
+  "Source": "BClouderChallenge.Server",
+  "BasePath": "_content/BClouderChallenge.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\bclouderchallenge.client\\bclouderchallenge.client.esproj",
+      "Version": 2,
+      "Source": "bclouderchallenge.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

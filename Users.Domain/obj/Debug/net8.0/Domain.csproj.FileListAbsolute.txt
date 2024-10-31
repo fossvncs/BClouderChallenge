@@ -5,6 +5,7 @@ C:\Users\vinic\source\repos\BClouderChallenge\Users.Domain\obj\Debug\net8.0\Doma
 C:\Users\vinic\source\repos\BClouderChallenge\Users.Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
 C:\Users\vinic\source\repos\BClouderChallenge\Users.Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 C:\Users\vinic\source\repos\BClouderChallenge\Users.Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\BClouderChallenge\Users.Domain\obj\Debug\net8.0\Domain.sourcelink.json
 C:\Users\vinic\source\repos\BClouderChallenge\Users.Domain\obj\Debug\net8.0\Domain.dll
 C:\Users\vinic\source\repos\BClouderChallenge\Users.Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\vinic\source\repos\BClouderChallenge\Users.Domain\obj\Debug\net8.0\Domain.pdb
