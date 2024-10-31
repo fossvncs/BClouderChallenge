@@ -46,8 +46,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -56,7 +60,7 @@
               "RelativeDocumentMoniker": "BClouderChallenge\\Controllers\\BClouderTaskController.cs",
               "ToolTip": "C:\\Users\\vinic\\source\\repos\\BClouderChallenge\\BClouderChallenge\\Controllers\\BClouderTaskController.cs",
               "RelativeToolTip": "BClouderChallenge\\Controllers\\BClouderTaskController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwB4AAAAIAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T14:57:36.017Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BClouderChallenge.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8949145fc7d85bb6e74e52788799ba9fe0112edd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc96a615788e03a4f652062c315ec62352a0c12d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BClouderChallenge.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BClouderChallenge.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
