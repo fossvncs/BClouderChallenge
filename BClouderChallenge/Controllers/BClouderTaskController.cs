@@ -28,7 +28,7 @@ namespace BClouderChallenge.API.Controllers
 
         [HttpPost]
         public ActionResult<List<BClouderTask>> Add(TaskViewModel task)
-        {
+            {
             if (task == null)
             {
                 return BadRequest("The task is null!");
